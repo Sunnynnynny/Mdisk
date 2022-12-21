@@ -1,5 +1,5 @@
 echo "Cloning Repo...."
-git clone https://github.com/Sunnynnynny/Mdisk.git / Mdisk
+git clone https://github.com/Sunnynnynny/Mdisk.git
 cd / Mdisk
 pip3 install -r requirements.txt
 echo "Starting Bot...."

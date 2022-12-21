@@ -5,17 +5,17 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "12124605"))
-    API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
-#    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
+    API_ID = int(os.getenv("API_ID", "1357592"))
+    API_HASH = os.getenv("API_HASH", "7a0b3567c813916acafaa69bf8989f12)
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5854142550:AAE6FZ6vDhjS3JPLYgqbfZX3mw9EbNgrll8")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "sunny")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "BQCVN0weHf17G_Y7kWs09c1PnE6gv12StwHqtsnT4SA7Q70petl0-TiyZ_OUUyDHCsY0W8-pppOYF58_V6eL45Vqh4rv0z6HBYxUmk9-CHIjTGF_BvrRZrWY-urSMh3ABnwoLZytCZRqMLkwHuETmSI9sVRBWRRXFb1_sm6ee955nB3x5xIi3k7BsVXccuWdGUageSRrULgBu2cTtPiSWUCM4HD-peJFqLGUeCdP2TjzY244lxpqTDoJSiXJ22h3VzKFdxfJdbC7FLbCr5BvoIwyMoaE6fGoPus6cAOngmRIhDQwc-9FxokWfpC5EQJa0xw8ua6Q6LNSO-O6NZ9X0Ce_AAAAAVgkbGwA")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001749360943)
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Snnyybot")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "5773749356"))
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Snnyybot")
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "ovishubb1")
+#    GROUP_USERNAME = os.getenv("GROUP_USERNAME", "+z7gfgc1LfQY2OGI1")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
 I ᴀᴍ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ 🔍.
